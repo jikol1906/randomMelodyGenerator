@@ -1,0 +1,18 @@
+{
+  "name": "randomMelodyGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.2"
+  },
+  "dependencies": {
+    "tone": "^14.7.77"
+  }
+}
